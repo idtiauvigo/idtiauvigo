@@ -12,6 +12,7 @@ El grupo trabaja en la integración de inteligencia artificial, robótica, compu
     - [Página del evento](https://sergiooo0.github.io/Bocobot-Tournament-WebPage/)
     - [Reseña gabinete de prensa de la UVigo](https://www.uvigo.gal/universidade/comunicacion/duvi/sete-equipos-competiron-i-torneo-robotico-escola-superior-enxenaria-informatica)
     - [Reseña Ourense Xa](https://ourensexa.com/es/news/el-campus-de-ourense-celebro-su-primer-torneo-robotico-de-la-escuela-superior-de-ingenieria-informatica/121710/)
+    - [Reportaje Telemiño](https://www.youtube.com/watch?v=H_sqX3JI29Y)
     - [Reseña Faro de Vigo](https://www.farodevigo.es/ourense/2026/04/27/programacion-competicion-estudiantes-ourense-demuestran-129585885.html)
     - [Reseña RRSS](https://www.instagram.com/gdgourense/p/DXHxubejS0U/)
 
