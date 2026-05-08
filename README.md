@@ -4,8 +4,6 @@
 
 IDTIA es un Grupo de Innovación Docente de la Universidad de Vigo centrado en mejorar la enseñanza mediante tecnologías actuales, metodologías activas e inteligencia artificial.
 
-El grupo trabaja en la integración de inteligencia artificial, robótica, computación física y sistemas tecnológicos en la formación universitaria, con un enfoque práctico, abierto y orientado a proyectos reales.
-
 ## Actividades
 
 - I Torneo Robótica ESEI 2025-26
