@@ -1,6 +1,4 @@
 # IDTIA  
-### Grupo de Innovación Docente en Tecnologías e Inteligencia Artificial  
-### Universidad de Vigo
 
 IDTIA es un Grupo de Innovación Docente de la Universidad de Vigo centrado en mejorar la enseñanza mediante tecnologías actuales, metodologías activas e inteligencia artificial.
 
@@ -19,5 +17,3 @@ IDTIA es un Grupo de Innovación Docente de la Universidad de Vigo centrado en m
 
 - email: idtia@esei.uvigo.es  
 - instagram: https://www.instagram.com/idtiauvigo/
-
-Universidad de Vigo
